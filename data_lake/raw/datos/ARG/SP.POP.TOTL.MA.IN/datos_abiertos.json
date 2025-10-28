@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2024",
+      "value": 22680713,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2023",
+      "value": 22596984,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2022",
+      "value": 22527129,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2021",
+      "value": 22478115,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2020",
+      "value": 22419484,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2019",
+      "value": 22307714,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2018",
+      "value": 22142786,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2017",
+      "value": 21953153,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2016",
+      "value": 21752905,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "AR",
+        "value": "Argentina"
+      },
+      "countryiso3code": "ARG",
+      "date": "2015",
+      "value": 21537702,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

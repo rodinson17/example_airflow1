@@ -1,0 +1,30 @@
+{"timestamp":"2025-10-26T17:26:15.306892","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T17:26:15.307641","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T17:26:15.760617Z","level":"info","event":"datos del df:     codigo_pais_iso  year  ... codigo_pais descripcion_pais","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.761571Z","level":"info","event":"0               ARG  2024  ...          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.761971Z","level":"info","event":"1               ARG  2023  ...          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.762309Z","level":"info","event":"2               ARG  2022  ...          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.762638Z","level":"info","event":"3               ARG  2021  ...          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.762905Z","level":"info","event":"4               ARG  2020  ...          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.763240Z","level":"info","event":"..              ...   ...  ...         ...              ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.763510Z","level":"info","event":"325             USA  2019  ...          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.763791Z","level":"info","event":"326             USA  2018  ...          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.764112Z","level":"info","event":"327             USA  2017  ...          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.764378Z","level":"info","event":"328             USA  2016  ...          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.764611Z","level":"info","event":"329             USA  2015  ...          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.764924Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.765148Z","level":"info","event":"[330 rows x 7 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.765470Z","level":"info","event":"datos del dim:     codigo_pais_iso codigo_pais descripcion_pais","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.765710Z","level":"info","event":"0               ARG          AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.765980Z","level":"info","event":"30              BOL          BO          Bolivia","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.766242Z","level":"info","event":"60              BRA          BR           Brazil","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.766528Z","level":"info","event":"90              CAN          CA           Canada","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.766775Z","level":"info","event":"120             CHL          CL            Chile","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.767039Z","level":"info","event":"150             COL          CO         Colombia","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.767296Z","level":"info","event":"180             ECU          EC          Ecuador","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.767490Z","level":"info","event":"210             MEX          MX           Mexico","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.767704Z","level":"info","event":"240             PER          PE             Peru","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.767945Z","level":"info","event":"270             URY          UY          Uruguay","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.768200Z","level":"info","event":"300             USA          US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.780164","level":"info","event":"Done. Returned value was: /opt/airflow/data_lake/gold/dimensions/countries.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-26T17:26:15.780438","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a218e-6df5-7cd2-a7b5-a09c124186e1'), task_id='dim_countries', dag_id='elt_medallon', run_id='manual__2025-10-26T17:26:13.733982+00:00', try_number=1, map_index=-1, hostname='18be95685c95', context_carrier=None, task=<Task(PythonOperator): dim_countries>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 26, 17, 26, 15, 251734, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}

@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2024",
+      "value": 20785855,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2023",
+      "value": 20178393,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2022",
+      "value": 19596620,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2021",
+      "value": 19240905,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2020",
+      "value": 19135365,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2019",
+      "value": 18933946,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2018",
+      "value": 18668093,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2017",
+      "value": 18412189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2016",
+      "value": 18198458,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.FE.IN",
+        "value": "Population, female"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2015",
+      "value": 17994677,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

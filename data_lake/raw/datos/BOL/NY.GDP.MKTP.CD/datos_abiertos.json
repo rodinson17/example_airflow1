@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2024",
+      "value": 49668296743.8495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2023",
+      "value": 45135398002.8944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2022",
+      "value": 44008282879.8842,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2021",
+      "value": 40406111693.1983,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2020",
+      "value": 36629843806.0781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2019",
+      "value": 40895322850.9407,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2018",
+      "value": 40287647930.5355,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2017",
+      "value": 37508642170.767,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2016",
+      "value": 33941126193.9219,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2015",
+      "value": 33000198248.9146,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

@@ -1,0 +1,20 @@
+{"timestamp":"2025-10-26T17:26:16.046683","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T17:26:16.047245","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T17:26:17.430306Z","level":"info","event":"datos del df: 0            SP.POP.TOTL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.430734Z","level":"info","event":"1            SP.POP.TOTL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.431208Z","level":"info","event":"2            SP.POP.TOTL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.431590Z","level":"info","event":"3            SP.POP.TOTL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.432024Z","level":"info","event":"4            SP.POP.TOTL","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.432299Z","level":"info","event":"             ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.432558Z","level":"info","event":"325    SP.POP.TOTL.MA.IN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.432890Z","level":"info","event":"326    SP.POP.TOTL.MA.IN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433118Z","level":"info","event":"327    SP.POP.TOTL.MA.IN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433275Z","level":"info","event":"328    SP.POP.TOTL.MA.IN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433429Z","level":"info","event":"329    SP.POP.TOTL.MA.IN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433581Z","level":"info","event":"Name: codigo_indicador, Length: 330, dtype: object","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433731Z","level":"info","event":"datos del dim:      codigo_indicador descripcion_indicador","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.433878Z","level":"info","event":"0         SP.POP.TOTL     Population, total","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.434040Z","level":"info","event":"10  SP.POP.TOTL.FE.IN    Population, female","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:17.434186Z","level":"info","event":"20  SP.POP.TOTL.MA.IN      Population, male","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:16.505465","level":"info","event":"Done. Returned value was: /opt/airflow/data_lake/gold/dimensions/indicators.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-26T17:26:16.505779","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a218e-6df6-726c-bec1-6dc6ba0377ab'), task_id='dim_indicators', dag_id='elt_medallon', run_id='manual__2025-10-26T17:26:13.733982+00:00', try_number=1, map_index=-1, hostname='18be95685c95', context_carrier=None, task=<Task(PythonOperator): dim_indicators>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 26, 17, 26, 15, 740399, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}

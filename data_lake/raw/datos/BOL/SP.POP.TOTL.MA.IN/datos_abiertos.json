@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2024",
+      "value": 6219215,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2023",
+      "value": 6135731,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2022",
+      "value": 6053750,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2021",
+      "value": 5989944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2020",
+      "value": 5940065,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2019",
+      "value": 5873939,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2018",
+      "value": 5793932,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2017",
+      "value": 5713458,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2016",
+      "value": 5632455,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "BO",
+        "value": "Bolivia"
+      },
+      "countryiso3code": "BOL",
+      "date": "2015",
+      "value": 5550936,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

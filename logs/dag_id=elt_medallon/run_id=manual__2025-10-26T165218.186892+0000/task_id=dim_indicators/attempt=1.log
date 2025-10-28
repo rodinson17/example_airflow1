@@ -1,0 +1,18 @@
+{"timestamp":"2025-10-26T16:52:19.004780","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T16:52:19.005582","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T16:52:19.777816Z","level":"info","event":"datos del df: 0      EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.778524Z","level":"info","event":"1      EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.778789Z","level":"info","event":"2      EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.779019Z","level":"info","event":"3      EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.779252Z","level":"info","event":"4      EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.779440Z","level":"info","event":"                ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.779651Z","level":"info","event":"105    EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.779840Z","level":"info","event":"106    EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.780043Z","level":"info","event":"107    EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.780234Z","level":"info","event":"108    EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.780410Z","level":"info","event":"109    EN.GHG.CO2.AG.MT.CE.AR5","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.780589Z","level":"info","event":"Name: codigo_indicador, Length: 110, dtype: object","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.782225Z","level":"info","event":"datos del dim:           codigo_indicador                              descripcion_indicador","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.782404Z","level":"info","event":"0  EN.GHG.CO2.AG.MT.CE.AR5  Carbon dioxide (CO2) emissions from Agricultur...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T16:52:19.797442","level":"info","event":"Done. Returned value was: /opt/airflow/data_lake/gold/dimensions/indicators.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-26T16:52:19.797728","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a216f-5e94-7fe1-ac7b-d9ec42607a7a'), task_id='dim_indicators', dag_id='elt_medallon', run_id='manual__2025-10-26T16:52:18.186892+00:00', try_number=1, map_index=-1, hostname='18be95685c95', context_carrier=None, task=<Task(PythonOperator): dim_indicators>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 26, 16, 52, 18, 912426, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}

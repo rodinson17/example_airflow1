@@ -1,0 +1,17 @@
+{"timestamp":"2025-10-26T02:52:56.960568","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T02:52:56.961099","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T02:52:57.643109Z","level":"info","event":"    countryiso3code  date  ...  country.id  country.value","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.643823Z","level":"info","event":"0               ARG  2024  ...          AR      Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.644430Z","level":"info","event":"1               ARG  2023  ...          AR      Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.644854Z","level":"info","event":"2               ARG  2022  ...          AR      Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.645115Z","level":"info","event":"3               ARG  2021  ...          AR      Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.645342Z","level":"info","event":"4               ARG  2020  ...          AR      Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.645668Z","level":"info","event":"..              ...   ...  ...         ...            ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.646031Z","level":"info","event":"105             USA  2019  ...          US  United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.646407Z","level":"info","event":"106             USA  2018  ...          US  United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.646747Z","level":"info","event":"107             USA  2017  ...          US  United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.647186Z","level":"info","event":"108             USA  2016  ...          US  United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.647536Z","level":"info","event":"109             USA  2015  ...          US  United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.647881Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.648144Z","level":"info","event":"[110 rows x 10 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T02:52:57.643289","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

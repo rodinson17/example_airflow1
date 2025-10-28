@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2024",
+      "value": 9041130,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2023",
+      "value": 8964951,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2022",
+      "value": 8888825,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2021",
+      "value": 8821568,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2020",
+      "value": 8760001,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2019",
+      "value": 8661859,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2018",
+      "value": 8517638,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2017",
+      "value": 8372918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2016",
+      "value": 8245438,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "EC",
+        "value": "Ecuador"
+      },
+      "countryiso3code": "ECU",
+      "date": "2015",
+      "value": 8125597,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

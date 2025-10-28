@@ -1,0 +1,172 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 1000,
+    "total": 10,
+    "sourceid": "2",
+    "lastupdated": "2025-10-07"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2024",
+      "value": 63459580,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2023",
+      "value": 62926132,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2022",
+      "value": 62401721,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2021",
+      "value": 61979793,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2020",
+      "value": 61635476,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2019",
+      "value": 61184489,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2018",
+      "value": 60641037,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2017",
+      "value": 60107325,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2016",
+      "value": 59593139,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SP.POP.TOTL.MA.IN",
+        "value": "Population, male"
+      },
+      "country": {
+        "id": "MX",
+        "value": "Mexico"
+      },
+      "countryiso3code": "MEX",
+      "date": "2015",
+      "value": 59066012,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

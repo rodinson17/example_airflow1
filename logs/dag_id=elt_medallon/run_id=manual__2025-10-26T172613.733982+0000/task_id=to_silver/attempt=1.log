@@ -1,0 +1,16 @@
+{"timestamp":"2025-10-26T17:26:14.136550","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T17:26:14.137504","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T17:26:15.144770Z","level":"info","event":"0      True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.145091Z","level":"info","event":"1      True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.145624Z","level":"info","event":"2      True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.145871Z","level":"info","event":"3      True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.146133Z","level":"info","event":"4      True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.146403Z","level":"info","event":"       ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.146642Z","level":"info","event":"325    True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.146873Z","level":"info","event":"326    True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.147165Z","level":"info","event":"327    True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.147474Z","level":"info","event":"328    True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.147806Z","level":"info","event":"329    True","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.148063Z","level":"info","event":"Name: valor, Length: 330, dtype: bool","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T17:26:15.163888","level":"info","event":"Done. Returned value was: /opt/airflow/data_lake/silver/datos/datos_abiertos_silver.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-26T17:26:15.164109","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a218e-6df4-73cc-8685-021333ec38ad'), task_id='to_silver', dag_id='elt_medallon', run_id='manual__2025-10-26T17:26:13.733982+00:00', try_number=1, map_index=-1, hostname='18be95685c95', context_carrier=None, task=<Task(PythonOperator): to_silver>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 26, 17, 26, 14, 82920, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}

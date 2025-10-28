@@ -1,0 +1,15 @@
+{"timestamp":"2025-10-26T13:04:24.750355","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T13:04:24.751259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T13:04:25.646474Z","level":"info","event":"datos de: 0         NaN","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.647249Z","level":"info","event":"1      2.4059","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.648828Z","level":"info","event":"2      2.2706","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.649575Z","level":"info","event":"3      2.1242","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.650267Z","level":"info","event":"4      1.9255","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.651069Z","level":"info","event":"        ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.651735Z","level":"info","event":"105    6.7387","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.652312Z","level":"info","event":"106    6.5073","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.652898Z","level":"info","event":"107    6.7666","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.653570Z","level":"info","event":"108    6.7303","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.654154Z","level":"info","event":"109    6.6910","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.654791Z","level":"info","event":"Name: valor, Length: 110, dtype: float64","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T13:04:25.646542","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

@@ -1,0 +1,18 @@
+{"timestamp":"2025-10-26T03:17:38.109126","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-26T03:17:38.109992","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-26T03:17:38.891870Z","level":"info","event":"datos de:     codigo_pais_iso  year  ...  codigo_pais descripcion_pais","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.892527Z","level":"info","event":"0               ARG  2024  ...           AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.892754Z","level":"info","event":"1               ARG  2023  ...           AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.892998Z","level":"info","event":"2               ARG  2022  ...           AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.893233Z","level":"info","event":"3               ARG  2021  ...           AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.893423Z","level":"info","event":"4               ARG  2020  ...           AR        Argentina","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.893629Z","level":"info","event":"..              ...   ...  ...          ...              ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.893832Z","level":"info","event":"105             USA  2019  ...           US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.894029Z","level":"info","event":"106             USA  2018  ...           US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.894258Z","level":"info","event":"107             USA  2017  ...           US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.894500Z","level":"info","event":"108             USA  2016  ...           US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.894724Z","level":"info","event":"109             USA  2015  ...           US    United States","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.894933Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.895159Z","level":"info","event":"[110 rows x 10 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-26T03:17:38.915448","level":"info","event":"Done. Returned value was: /opt/airflow/data_lake/silver/datos/datos_abiertos_silver.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-10-26T03:17:38.915705","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019a1e85-8187-7ba6-bbde-e6aefbe25e9c'), task_id='to_silver', dag_id='elt_medallon', run_id='manual__2025-10-26T03:17:37.274309+00:00', try_number=1, map_index=-1, hostname='38ba2017eef5', context_carrier=None, task=<Task(PythonOperator): to_silver>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 26, 3, 17, 38, 38538, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}
