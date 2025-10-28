@@ -9,13 +9,7 @@ import pandas as pd
 logger = logging.getLogger(__name__)
 
 countries = ["MEX", "BRA", "ARG", "USA", "COL","BOL","CAN","CHL","ECU","PER","URY"]
-#indicators = {
-#    "NY.GDP.MKTP.CD": "PIB (USD actuales)",
-#    "SP.POP.TOTL": "Población total",
-#    "SP.POP.TOTL.FE.IN": "Población femenina",
-#    "SP.POP.TOTL.MA.IN": "Población masculina",
-#    "EN.GHG.CO2.AG.MT.CE.AR5": "Emisiones de dióxido de carbono (CO2) de la agricultura",    
-#}
+
 indicators = {
     "NY.GDP.MKTP.CD": "PIB (USD actuales)",
     "SP.POP.TOTL": "Población total",
